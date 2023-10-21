@@ -28,7 +28,7 @@
 4. Визуализировала данные о пользователях и их поведении.
 
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+> <a href="https://docs.google.com/spreadsheets/d/1gKYrY0HdrZGlQa8OU5qJw0czIXuDzESC/edit?usp=drive_link&ouid=102929763184839150991&rtpof=true&sd=true)">Ссылка на проект</a>
   (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
 
 <p>Выводы (итоги):<p>
