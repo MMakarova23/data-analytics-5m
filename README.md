@@ -57,5 +57,4 @@
 
 ## Контактная информация
 - Email: MMakarova.w@yandex.ru
-- 
 
